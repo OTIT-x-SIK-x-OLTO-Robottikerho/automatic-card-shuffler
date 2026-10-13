@@ -1,0 +1,27 @@
+Features:
+- shuffles 1-2 decks
+- battery powered
+
+- dealing: 
+	- ignored for first iteration
+	- rotary function
+
+- shuffling:
+	- for 1st iteration, keep it simple "shuffle" once
+	- for future iterations, increase number of shuffles
+	method: 
+		- 2 stacks of cards
+		- servo pulls the card on the bottom towards the middle in random order from each stack
+
+
+
+
+Components:
+- hull: laser cut
+
+- 2 servos for drawing the undermost card of stack
+- motor
+- raspberry pi pico
+- rubber? tip for friction
+- battery
+- jumper cables
